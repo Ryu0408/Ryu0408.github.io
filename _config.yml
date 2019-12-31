@@ -2,18 +2,18 @@
 # Site
 
 title: Edition Template
-url: "https://long-pig.cloudvent.net"
+url: "https://Ryu0408.net"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: Try to use Git / Github
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Ryu0408
+  email: fbtmdghks11@naver.com
+  facebook: ryuga1@dreamwiz.com
 social:
   name: Edition Template
   links:
